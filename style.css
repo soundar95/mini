@@ -93,11 +93,12 @@ div.desc {
   flex-wrap: wrap;
   align-items: center;
   justify-content:justify;
-  background-color:white
+  background-color:white;
 }
 .itemlist>img{
   width:600px;
-  height: 520px;
+  height:720px;
+  object-fit: cover;
 }
 .itemlist>table{
   background-color: aliceblue;
